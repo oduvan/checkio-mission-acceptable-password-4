@@ -27,6 +27,10 @@ TESTS = {
             "answer": False,
         },
         {
+            "input": ['notshort'],
+            "answer": False,
+        },
+        {
             "input": ['muchlonger5'],
             "answer": True,
         },
